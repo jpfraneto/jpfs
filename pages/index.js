@@ -25,6 +25,7 @@ export default function Home() {
         <a
           href='https://calendly.com/jpfraneto/jpfs'
           target='_blank'
+          rel='noreferrer'
           className={styles.letsTalkBtn}
         >
           Let&apos;s Talk
