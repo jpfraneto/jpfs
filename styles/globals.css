@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&family=Uchen&display=swap');
+
 html,
 body {
   padding: 0;
@@ -13,6 +15,11 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+h2 {
+  font-family: 'Uchen', serif;
+  margin: 0;
 }
 
 @media (prefers-color-scheme: dark) {
