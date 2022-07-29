@@ -18,7 +18,7 @@ export default function Home() {
         <h2>Welcome</h2>
         <p>My name is jp.</p>
         <p>
-          I'm shattering my reality as I know it, so that I can become
+          I&apos;m shattering my reality as I know it, so that I can become
           unstoppable from within.
         </p>
         <p>Stay tuned, it will be worth your time.</p>
@@ -27,7 +27,7 @@ export default function Home() {
           target='_blank'
           className={styles.letsTalkBtn}
         >
-          Lets Talk
+          Let&apos;s Talk
         </a>
       </main>
     </div>
