@@ -15,13 +15,21 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h2>Welcome</h2>
-        <p>My name is jp.</p>
+        <h1>Hello. My name is jp.</h1>
         <p>
-          I&apos;m shattering my reality as I know it, so that I can become
-          unstoppable from within.
+          If you are here, it may be because you were curious. Who is this guy,
+          you may have thought. I have struggled answering that question all my
+          life. How can I define who I am if it is always changing? Of course it
+          is changing. Life changes. But there is a fundamental aspect of being
+          alive, having a soul inside. When you realize that you have a soul,
+          you start making efforts to deepen your connection to it. You crave
+          living from there. How could you not. Your soul also wants to meet
+          you. You just dont know it yet. so when that happens, you will shine.
+          and i want you to shine. i want all of us to shine. how would the
+          world look like if we all were shining? i think it would be quite
+          nice. so here i am, inviting you to that. we will have fun. im sure
+          about that.
         </p>
-        <p>Stay tuned, it will be worth your time.</p>
         <a
           href='https://calendly.com/jpfraneto/jpfs'
           target='_blank'
