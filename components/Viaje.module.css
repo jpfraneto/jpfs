@@ -1,4 +1,12 @@
 .mainContainer {
   height: 100vh;
   width: 100%;
+  display: flex;
+}
+
+.dayContainer {
+  height: 100vh;
+  margin: 0 4px;
+  width: calc(100vw / 24);
+  background-color: purple;
 }

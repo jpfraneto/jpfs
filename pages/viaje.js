@@ -1,5 +1,5 @@
 import React from 'react';
-impor;
+import Viaje from '../components/viaje';
 
 const ViajePage = () => {
   return <Viaje />;
